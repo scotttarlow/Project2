@@ -1,12 +1,7 @@
-Project 2: Lucid Titanic Sleuthing
-----
+# Titanic Survivors without Machine Learning
 
 
-This week we will be looking at who survives famous ship sinking (Titanic and Lusitania). 
-
-## Data
-
-- More information on the titanic.csv dataset [here](https://www.kaggle.com/c/titanic/data). 
+This project is EDA (Exploratory Data Analysis) for titanic surviors, not using machine learning. see the iPython Notebook for code and report.
 
 
 
